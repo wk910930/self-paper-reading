@@ -17,3 +17,10 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 - [Videos](#videos)
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
+
+## Papers
+
+### Object Detection
+
+* Mask R-CNN [[Paper]](https://arxiv.org/abs/1703.06870)
+  * Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick, Mask R-CNN, CVPR, 2017
