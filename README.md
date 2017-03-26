@@ -24,3 +24,8 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 
 * Mask R-CNN [[Paper]](https://arxiv.org/abs/1703.06870)
   * Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick, Mask R-CNN, CVPR, 2017
+
+## Books
+* Free Online Books
+  * [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org)
+  * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
