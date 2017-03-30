@@ -29,3 +29,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 * Free Online Books
   * [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org)
   * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
+
+## Blogs
+* [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) @ Andrej Karpathy blog
+
