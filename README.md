@@ -24,6 +24,8 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 
 * Mask R-CNN [[Paper]](https://arxiv.org/abs/1703.06870)
   * Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick, Mask R-CNN, CVPR, 2017
+* Deformable Convolutional Networks [[Paper]](https://arxiv.org/abs/1703.06211)
+  * Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei, Arxiv tech report, 2017
 
 ## Books
 * Free Online Books
