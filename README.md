@@ -27,6 +27,11 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 * Deformable Convolutional Networks [[Paper]](https://arxiv.org/abs/1703.06211)
   * Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei, Arxiv tech report, 2017
 
+### Understanding CNN
+
+* Structured Receptive Fields in CNNs [[Paper]](https://arxiv.org/abs/1605.02971)
+  * Jörn-Henrik Jacobsen, Jan van Gemert, Zhongyu Lou, Arnold W. M. Smeulders, CVPR, 2016
+
 ## Books
 * Free Online Books
   * [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org)
