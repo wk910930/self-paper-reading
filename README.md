@@ -31,6 +31,8 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 
 * Structured Receptive Fields in CNNs [[Paper]](https://arxiv.org/abs/1605.02971)
   * Jörn-Henrik Jacobsen, Jan van Gemert, Zhongyu Lou, Arnold W. M. Smeulders, CVPR, 2016
+* Understanding image representations by measuring their equivariance and equivalence [[Paper]](https://arxiv.org/abs/1411.5908)
+  * Karel Lenc, Andrea Vedaldi, CVPR, 2015
 
 ## Books
 * Free Online Books
