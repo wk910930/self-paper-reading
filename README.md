@@ -30,7 +30,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
   * Kaiming He, Georgia Gkioxari, Piotr Dollár, Ross Girshick, Mask R-CNN, CVPR, 2017
 * Deformable Convolutional Networks [[Paper]](https://arxiv.org/abs/1703.06211)
   * Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei, Arxiv tech report, 2017
-* A-Fast-RCNN: Hard positive generation via adversary for object detection [[Paper]](http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf)
+* A-Fast-RCNN: Hard positive generation via adversary for object detection [[Paper]](http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf) [[Code]](https://github.com/xiaolonw/adversarial-frcnn)
   * Xiaolong Wang, Abhinav Shrivastava, Abhinav Gupta, CVPR, 2017
 
 ### Understanding CNN
