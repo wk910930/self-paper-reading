@@ -20,6 +20,10 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 
 ## Papers
 
+### ImageNet Classification
+* Matching Networks for One Shot Learning [[Paper]](https://arxiv.org/abs/1606.04080)
+  * Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra
+
 ### Object Detection
 
 * Mask R-CNN [[Paper]](https://arxiv.org/abs/1703.06870)
