@@ -35,6 +35,11 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 * A-Fast-RCNN: Hard positive generation via adversary for object detection [[Paper]](http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf) [[Code]](https://github.com/xiaolonw/adversarial-frcnn)
   * Xiaolong Wang, Abhinav Shrivastava, Abhinav Gupta, *CVPR*, 2017
 
+### Semantic Segmentation
+
+* Fully Convolutional Instance-aware Semantic Segmentation [[Paper]](https://arxiv.org/abs/1611.07709)
+  * Yi Li, Haozhi Qi, Jifeng Dai, Xiangyang Ji, Yichen Wei, *CVPR*, 2017 (Spotlight)
+
 ### Understanding CNN
 
 * Structured Receptive Fields in CNNs [[Paper]](https://arxiv.org/abs/1605.02971)
