@@ -6,13 +6,11 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 - [Papers](#papers)
   - [ImageNet Classification](#imagenet-classification)
   - [Object Detection](#object-detection)
-  - [Object Tracking](#object-tracking)
   - [Semantic Segmentation](#semantic-segmentation)
   - [Object Recognition](#object-recognition)
-  - [Human Pose Estimation](#human-pose-estimation)
   - [Understanding CNN](#understanding-cnn)
   - [Image Generation](#image-generation)
-  - [Other Topics](#other-topics)
+  - [New Papers](#new-papers)
 - [Books](#books)
 - [Videos](#videos)
 - [Tutorials](#tutorials)
@@ -48,6 +46,11 @@ A curated list of deep learning resources for computer vision, inspired by [awes
   * Karel Lenc, Andrea Vedaldi, *CVPR*, 2015
 * Dynamic Filter Networks [[Paper]](https://arxiv.org/abs/1605.09673)
   * Bert De Brabandere, Xu Jia, Tinne Tuytelaars, Luc Van Gool, *NIPS*, 2016
+
+### New Papers
+
+* [Newly published papers (< 6 months) which are worth reading](https://github.com/terryum/awesome-deep-learning-papers#new-papers)
+  * terryum
 
 ## Books
 * Free Online Books
