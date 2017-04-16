@@ -10,7 +10,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
   - [Object Recognition](#object-recognition)
   - [Understanding CNN](#understanding-cnn)
   - [Image Generation](#image-generation)
-  - [New Papers](#new-papers)
+  - [Other Source](#other-source)
 - [Books](#books)
 - [Videos](#videos)
 - [Tutorials](#tutorials)
@@ -47,7 +47,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 * Dynamic Filter Networks [[Paper]](https://arxiv.org/abs/1605.09673)
   * Bert De Brabandere, Xu Jia, Tinne Tuytelaars, Luc Van Gool, *NIPS*, 2016
 
-### New Papers
+### Other Source
 
 * [Newly published papers (< 6 months) which are worth reading](https://github.com/terryum/awesome-deep-learning-papers#new-papers)
   * terryum
