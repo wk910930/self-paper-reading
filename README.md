@@ -51,8 +51,8 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 
 ## Books
 * Free Online Books
-  * [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.deeplearningbook.org)
-  * [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
+  * [Deep Learning](http://www.deeplearningbook.org) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+  * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
 
 ## Tutorials
 * [Distill](http://distill.pub), a modern medium for presenting research
