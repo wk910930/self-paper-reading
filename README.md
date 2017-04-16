@@ -55,6 +55,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
   * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
 
 ## Tutorials
+* [UFDL](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial), Unsupervised Feature Learning and Deep Learning
 * [Distill](http://distill.pub), a modern medium for presenting research
 
 ## Blogs
