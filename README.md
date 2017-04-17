@@ -64,3 +64,4 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 ## Blogs
 * [Andrej Karpathy's blog](http://karpathy.github.io)
 * [Colah's blog](http://colah.github.io)
+* [WILDML](http://www.wildml.com)
