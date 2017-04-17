@@ -62,5 +62,5 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 * [Distill](http://distill.pub), a modern medium for presenting research
 
 ## Blogs
-* [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) @ Andrej Karpathy blog
-
+* [Andrej Karpathy's blog](http://karpathy.github.io)
+* [Colah's blog](http://colah.github.io)
