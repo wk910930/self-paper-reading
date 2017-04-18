@@ -68,6 +68,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 ## Tutorials
 * [UFDL](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial), Unsupervised Feature Learning and Deep Learning
 * [Distill](http://distill.pub), a modern medium for presenting research
+* [GAN](https://arxiv.org/abs/1701.00160), Generative Adversarial Networks, *NIPS* 2016 Tutorial
 
 ## Blogs
 * [Andrej Karpathy's blog](http://karpathy.github.io)
