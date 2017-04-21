@@ -44,7 +44,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 * Fully Convolutional Instance-aware Semantic Segmentation [[Paper]](https://arxiv.org/abs/1611.07709)
   * Yi Li, Haozhi Qi, [Jifeng Dai](http://www.jifengdai.org/), Xiangyang Ji, Yichen Wei, *CVPR*, 2017 (Spotlight)
 * PixelNet: Representation of the pixels, by the pixels, and for the pixels [[Paper]](https://arxiv.org/abs/1702.06506) [[Code]](https://github.com/aayushbansal/PixelNet)
-  * Aayush Bansal, [Xinlei Chen](http://www.cs.cmu.edu/~xinleic/), Bryan Russell, Abhinav Gupta, Deva Ramanan
+  * [Aayush Bansal](http://www.cs.cmu.edu/~aayushb/), [Xinlei Chen](http://www.cs.cmu.edu/~xinleic/), Bryan Russell, Abhinav Gupta, Deva Ramanan
 
 ### Understanding CNN
 
