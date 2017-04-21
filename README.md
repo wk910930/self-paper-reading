@@ -24,7 +24,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 * Active Convolution: Learning the Shape of Convolution for Image Classification [[Paper]](https://arxiv.org/abs/1703.09076)
   * Yunho Jeon, Junmo Kim, *CVPR*, 2017
 * Aggregated Residual Transformations for Deep Neural Networks [[Paper]](https://arxiv.org/abs/1611.05431) [[Code]](https://github.com/facebookresearch/ResNeXt)
-  * Saining Xie, [Ross Girshick](http://www.rossgirshick.info/), [Piotr Dollár](https://pdollar.github.io/index.html), Zhuowen Tu, [Kaiming He](http://kaiminghe.com/)
+  * Saining Xie, [Ross Girshick](http://www.rossgirshick.info/), [Piotr Dollár](https://pdollar.github.io/index.html), Zhuowen Tu, [Kaiming He](http://kaiminghe.com/)
 
 ### Object Detection
 
