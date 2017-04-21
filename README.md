@@ -29,7 +29,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 ### Object Detection
 
 * Mask R-CNN [[Paper]](https://arxiv.org/abs/1703.06870)
-  * [Kaiming He](http://kaiminghe.com/), Georgia Gkioxari, [Piotr Dollár](https://pdollar.github.io/index.html), [Ross Girshick](http://www.rossgirshick.info/), Mask R-CNN, *CVPR*, 2017
+  * [Kaiming He](http://kaiminghe.com/), Georgia Gkioxari, [Piotr Dollár](https://pdollar.github.io/index.html), [Ross Girshick](http://www.rossgirshick.info/), Mask R-CNN, *CVPR*, 2017
 * Deformable Convolutional Networks [[Paper]](https://arxiv.org/abs/1703.06211)
   * [Jifeng Dai](http://www.jifengdai.org/), Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei, Arxiv tech report, 2017
 * A-Fast-RCNN: Hard positive generation via adversary for object detection [[Paper]](http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf) [[Code]](https://github.com/xiaolonw/adversarial-frcnn)
