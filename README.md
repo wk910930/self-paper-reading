@@ -12,7 +12,6 @@ A curated list of deep learning resources for computer vision, inspired by [awes
   - [Image Generation](#image-generation)
   - [Other Source](#other-source)
 - [Books](#books)
-- [Videos](#videos)
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
 
