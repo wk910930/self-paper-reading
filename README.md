@@ -48,7 +48,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 ### Understanding CNN
 
 * Structured Receptive Fields in CNNs [[Paper]](https://arxiv.org/abs/1605.02971)
-  * Jörn-Henrik Jacobsen, Jan van Gemert, Zhongyu Lou, Arnold W. M. Smeulders, *CVPR*, 2016
+  * [Jörn-Henrik Jacobsen](https://jhjacobsen.github.io), Jan van Gemert, Zhongyu Lou, Arnold W. M. Smeulders, *CVPR*, 2016
 * Understanding image representations by measuring their equivariance and equivalence [[Paper]](https://arxiv.org/abs/1411.5908)
   * [Karel Lenc](http://www.robots.ox.ac.uk/~karel/), Andrea Vedaldi, *CVPR*, 2015
 * Dynamic Filter Networks [[Paper]](https://arxiv.org/abs/1605.09673)
