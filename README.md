@@ -53,6 +53,8 @@ A curated list of deep learning resources for computer vision, inspired by [awes
   * [Karel Lenc](http://www.robots.ox.ac.uk/~karel/), Andrea Vedaldi, *CVPR*, 2015
 * Dynamic Filter Networks [[Paper]](https://arxiv.org/abs/1605.09673)
   * Bert De Brabandere, Xu Jia, Tinne Tuytelaars, Luc Van Gool, *NIPS*, 2016
+* Network Dissection: Quantifying Interpretability of Deep Visual Representations [[Paper]](https://arxiv.org/abs/1704.05796)
+  * David Bau, Bolei Zhou, Aditya Khosla, Aude Oliva, Antonio Torralba, *CVPR*, 2017 (Oral)
 
 ### Other Source
 
