@@ -36,7 +36,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 * Spatial Memory for Context Reasoning in Object Detection [[Paper]](https://arxiv.org/abs/1704.04224)
   * [Xinlei Chen](https://www.cs.cmu.edu/~xinleic/index.html), Abhinav Gupta
 * Learning Features by Watching Objects Move [[Paper]](https://arxiv.org/abs/1612.06370)
-  * [Deepak Pathak](https://people.eecs.berkeley.edu/~pathak/), [Ross Girshick](http://www.rossgirshick.info/), Piotr Dollár, Trevor Darrell, Bharath Hariharan
+  * [Deepak Pathak](https://people.eecs.berkeley.edu/~pathak/), [Ross Girshick](http://www.rossgirshick.info/), [Piotr Dollár](https://pdollar.github.io/index.html), Trevor Darrell, Bharath Hariharan
 
 ### Semantic Segmentation
 
