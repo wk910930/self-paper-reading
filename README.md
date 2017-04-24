@@ -37,6 +37,8 @@ A curated list of deep learning resources for computer vision, inspired by [awes
   * [Xinlei Chen](https://www.cs.cmu.edu/~xinleic/index.html), Abhinav Gupta
 * Learning Features by Watching Objects Move [[Paper]](https://arxiv.org/abs/1612.06370)
   * [Deepak Pathak](https://people.eecs.berkeley.edu/~pathak/), [Ross Girshick](http://www.rossgirshick.info/), [Piotr Dollár](https://pdollar.github.io/index.html), Trevor Darrell, Bharath Hariharan
+* Improving Object Detection With One Line of Code [[Paper]](https://arxiv.org/abs/1704.04503) [[Code]](https://github.com/bharatsingh430/soft-nms)
+  * Navaneeth Bodla, Bharat Singh, Rama Chellappa, Larry S. Davis
 
 ### Semantic Segmentation
 
