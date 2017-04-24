@@ -54,7 +54,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 * Dynamic Filter Networks [[Paper]](https://arxiv.org/abs/1605.09673)
   * Bert De Brabandere, Xu Jia, Tinne Tuytelaars, Luc Van Gool, *NIPS*, 2016
 * Network Dissection: Quantifying Interpretability of Deep Visual Representations [[Paper]](https://arxiv.org/abs/1704.05796)
-  * David Bau, [Bolei Zhou](http://people.csail.mit.edu/bzhou/), Aditya Khosla, Aude Oliva, Antonio Torralba, *CVPR*, 2017 (Oral)
+  * David Bau, [Bolei Zhou](http://people.csail.mit.edu/bzhou/), [Aditya Khosla](http://people.csail.mit.edu/khosla/), Aude Oliva, Antonio Torralba, *CVPR*, 2017 (Oral)
 
 ### Other Source
 
