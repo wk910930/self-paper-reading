@@ -63,7 +63,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 ### Other Source
 
 * [Newly published papers (< 6 months) which are worth reading](https://github.com/terryum/awesome-deep-learning-papers#new-papers)
-  * terryum
+  * [terryum](https://github.com/terryum)
 * [DeepMind](https://deepmind.com/research/publications/)
   * DeepMind's publications
 
