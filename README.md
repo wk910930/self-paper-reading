@@ -59,6 +59,8 @@ A curated list of deep learning resources for computer vision, inspired by [awes
   * Bert De Brabandere, Xu Jia, Tinne Tuytelaars, Luc Van Gool, *NIPS*, 2016
 * Network Dissection: Quantifying Interpretability of Deep Visual Representations [[Paper]](https://arxiv.org/abs/1704.05796)
   * David Bau, [Bolei Zhou](http://people.csail.mit.edu/bzhou/), [Aditya Khosla](http://people.csail.mit.edu/khosla/), Aude Oliva, Antonio Torralba, *CVPR*, 2017 (Oral)
+* On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima [[Paper]](https://arxiv.org/abs/1609.04836)
+  * Nitish Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang, *ICLR*, 2017
 
 ### Other Source
 
