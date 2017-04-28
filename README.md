@@ -35,7 +35,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
   * [Xiaolong Wang](http://www.cs.cmu.edu/~xiaolonw/), Abhinav Shrivastava, Abhinav Gupta, *CVPR*, 2017
 * Spatial Memory for Context Reasoning in Object Detection [[Paper]](https://arxiv.org/abs/1704.04224)
   * [Xinlei Chen](https://www.cs.cmu.edu/~xinleic/index.html), [Abhinav Gupta](http://www.cs.cmu.edu/~abhinavg/)
-* Learning Features by Watching Objects Move [[Paper]](https://arxiv.org/abs/1612.06370)
+* Learning Features by Watching Objects Move [[Paper]](https://arxiv.org/abs/1612.06370) [[Code]](https://github.com/pathak22/unsupervised-video)
   * [Deepak Pathak](https://people.eecs.berkeley.edu/~pathak/), [Ross Girshick](http://www.rossgirshick.info/), [Piotr Dollár](https://pdollar.github.io/index.html), Trevor Darrell, Bharath Hariharan
 * Improving Object Detection With One Line of Code [[Paper]](https://arxiv.org/abs/1704.04503) [[Code]](https://github.com/bharatsingh430/soft-nms)
   * Navaneeth Bodla, Bharat Singh, Rama Chellappa, Larry S. Davis
