@@ -1,5 +1,7 @@
 # Self Paper Reading
 
+![Build Status](https://travis-ci.org/wk910930/self-paper-reading.svg?branch=master)
+
 A curated list of deep learning resources for computer vision, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision).
 
 ## Table of Contents
