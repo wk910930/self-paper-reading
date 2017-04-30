@@ -49,6 +49,11 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 * Semantic Image Segmentation with Task-Specific Edge Detection Using CNNs and a Discriminatively Trained Domain Transform [[Paper]](https://arxiv.org/abs/1511.03328)
   * Liang-Chieh Chen, Jonathan T. Barron, George Papandreou, Kevin Murphy, Alan L. Yuille
 
+### Object Recognition
+
+* Discovering objects and their relations from entangled scene representations [[Paper]](https://arxiv.org/abs/1702.05068)
+  * David Raposo, Adam Santoro, David Barrett, Razvan Pascanu, Timothy Lillicrap, Peter Battaglia, *ICLR*, 2017
+
 ### Understanding CNN
 
 * Structured Receptive Fields in CNNs [[Paper]](https://arxiv.org/abs/1605.02971)
