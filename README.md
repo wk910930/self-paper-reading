@@ -67,6 +67,11 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 * On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima [[Paper]](https://arxiv.org/abs/1609.04836) [[Code]](https://github.com/keskarnitish/large-batch-training)
   * [Nitish Shirish Keskar](http://users.iems.northwestern.edu/~nitish/), [Dheevatsa Mudigere](https://sites.google.com/site/dheevatsa/home), Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang, *ICLR*, 2017
 
+### Image Generation
+
+* Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[Paper]](https://arxiv.org/abs/1703.10593) [[Code]](https://github.com/junyanz/CycleGAN)
+  * Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros
+
 ### Other Source
 
 * [Newly published papers (< 6 months) which are worth reading](https://github.com/terryum/awesome-deep-learning-papers#new-papers)
