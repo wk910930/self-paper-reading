@@ -70,7 +70,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 ### Image Generation
 
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[Paper]](https://arxiv.org/abs/1703.10593) [[Code]](https://github.com/junyanz/CycleGAN)
-  * Jun-Yan Zhu, Taesung Park, Phillip Isola, Alexei A. Efros
+  * [Jun-Yan Zhu](http://people.eecs.berkeley.edu/~junyanz/), Taesung Park, Phillip Isola, Alexei A. Efros
 
 ### Other Source
 
