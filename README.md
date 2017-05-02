@@ -66,6 +66,8 @@ A curated list of deep learning resources for computer vision, inspired by [awes
   * David Bau, [Bolei Zhou](http://people.csail.mit.edu/bzhou/), [Aditya Khosla](http://people.csail.mit.edu/khosla/), Aude Oliva, Antonio Torralba, *CVPR*, 2017 (Oral)
 * On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima [[Paper]](https://arxiv.org/abs/1609.04836) [[Code]](https://github.com/keskarnitish/large-batch-training)
   * [Nitish Shirish Keskar](http://users.iems.northwestern.edu/~nitish/), [Dheevatsa Mudigere](https://sites.google.com/site/dheevatsa/home), Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang, *ICLR*, 2017
+* Auto-Encoding Variational Bayes [[Paper]](https://arxiv.org/abs/1312.6114)
+  * Diederik P Kingma, Max Welling
 
 ### Image Generation
 
