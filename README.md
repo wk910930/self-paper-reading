@@ -73,6 +73,8 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 
 * Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [[Paper]](https://arxiv.org/abs/1703.10593) [[Code]](https://github.com/junyanz/CycleGAN)
   * [Jun-Yan Zhu](http://people.eecs.berkeley.edu/~junyanz/), Taesung Park, Phillip Isola, [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/)
+* Adversarial Feature Learning [[Paper]](https://arxiv.org/abs/1605.09782) [[Code]](https://github.com/jeffdonahue/bigan)
+  * [Jeff Donahue](http://jeffdonahue.com), Philipp Krähenbühl, Trevor Darrell
 
 ### Other Source
 
