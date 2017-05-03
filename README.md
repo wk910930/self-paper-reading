@@ -53,6 +53,8 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 
 * Discovering objects and their relations from entangled scene representations [[Paper]](https://arxiv.org/abs/1702.05068)
   * David Raposo, Adam Santoro, David Barrett, Razvan Pascanu, Timothy Lillicrap, Peter Battaglia, *ICLR*, 2017
+* Learning Spatiotemporal Features with 3D Convolutional Networks [[Paper]](https://arxiv.org/abs/1412.0767) [[Code]](https://github.com/facebook/C3D)
+  * [Du Tran](http://www.cs.dartmouth.edu/~dutran/), Lubomir Bourdev, Rob Fergus, Lorenzo Torresani, Manohar Paluri
 
 ### Understanding CNN
 
