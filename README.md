@@ -47,7 +47,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 * PixelNet: Representation of the pixels, by the pixels, and for the pixels [[Paper]](https://arxiv.org/abs/1702.06506) [[Code]](https://github.com/aayushbansal/PixelNet)
   * [Aayush Bansal](http://www.cs.cmu.edu/~aayushb/), [Xinlei Chen](http://www.cs.cmu.edu/~xinleic/), Bryan Russell, Abhinav Gupta, Deva Ramanan
 * Semantic Image Segmentation with Task-Specific Edge Detection Using CNNs and a Discriminatively Trained Domain Transform [[Paper]](https://arxiv.org/abs/1511.03328)
-  * Liang-Chieh Chen, Jonathan T. Barron, George Papandreou, Kevin Murphy, Alan L. Yuille
+  * [Liang-Chieh Chen](http://liangchiehchen.com), Jonathan T. Barron, George Papandreou, Kevin Murphy, Alan L. Yuille
 
 ### Object Recognition
 
