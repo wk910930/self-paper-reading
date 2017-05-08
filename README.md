@@ -89,6 +89,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 * Free Online Books
   * [Deep Learning](http://www.deeplearningbook.org) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
   * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
+  * [Deep Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures) by Hilary Term 2017 at the University of Oxford
 
 ## Tutorials
 * [UFDL](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial), Unsupervised Feature Learning and Deep Learning
