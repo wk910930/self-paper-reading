@@ -2,7 +2,12 @@
 
 A curated list of deep learning resources for computer vision, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision).
 
+## Contributing
+
+Please feel free to [pull requests](https://github.com/wk910930/self-paper-reading/pulls) to add papers.
+
 ## Table of Contents
+
 - [Papers](#papers)
   - [ImageNet Classification](#imagenet-classification)
   - [Object Detection](#object-detection)
@@ -18,6 +23,7 @@ A curated list of deep learning resources for computer vision, inspired by [awes
 ## Papers
 
 ### ImageNet Classification
+
 * Matching Networks for One Shot Learning [[Paper]](https://arxiv.org/abs/1606.04080)
   * Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra
 * Active Convolution: Learning the Shape of Convolution for Image Classification [[Paper]](https://arxiv.org/abs/1703.09076)
@@ -86,17 +92,20 @@ A curated list of deep learning resources for computer vision, inspired by [awes
   * DeepMind's publications
 
 ## Books
+
 * Free Online Books
   * [Deep Learning](http://www.deeplearningbook.org) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
   * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
   * [Deep Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures) by Hilary Term 2017 at the University of Oxford
 
 ## Tutorials
+
 * [UFDL](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial), Unsupervised Feature Learning and Deep Learning
 * [Distill](http://distill.pub), a modern medium for presenting research
 * [GAN](https://arxiv.org/abs/1701.00160), Generative Adversarial Networks, *NIPS* 2016 Tutorial
 
 ## Blogs
+
 * [Andrej Karpathy's blog](http://karpathy.github.io)
 * [Colah's blog](http://colah.github.io)
 * [WILDML](http://www.wildml.com)
