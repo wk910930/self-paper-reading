@@ -88,6 +88,8 @@ Please feel free to [pull requests](https://github.com/wk910930/self-paper-readi
 
 * [Newly published papers (< 6 months) which are worth reading](https://github.com/terryum/awesome-deep-learning-papers#new-papers)
   * [terryum](https://github.com/terryum)
+* [Recent Submissions: Computer Vision and Pattern Recognition](https://arxiv.org/list/cs.CV/recent)
+  * [arXiv.org](https://arxiv.org/)
 * [DeepMind](https://deepmind.com/research/publications/)
   * DeepMind's publications
 
