@@ -76,6 +76,8 @@ Please feel free to [pull requests](https://github.com/wk910930/self-paper-readi
   * [Nitish Shirish Keskar](http://users.iems.northwestern.edu/~nitish/), [Dheevatsa Mudigere](https://sites.google.com/site/dheevatsa/home), Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang, *ICLR*, 2017
 * Auto-Encoding Variational Bayes [[Paper]](https://arxiv.org/abs/1312.6114)
   * [Diederik P Kingma](http://dpkingma.com), Max Welling
+* Intriguing properties of neural networks [[Paper]](https://arxiv.org/abs/1312.6199)
+  * Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus
 
 ### Image Generation
 
