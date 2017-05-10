@@ -15,6 +15,7 @@ Please feel free to [pull requests](https://github.com/wk910930/self-paper-readi
   - [Object Recognition](#object-recognition)
   - [Understanding CNN](#understanding-cnn)
   - [Image Generation](#image-generation)
+  - [Reinforcement Learning](#reinforcement-learning)
   - [Other Source](#other-source)
 - [Books](#books)
 - [Tutorials](#tutorials)
@@ -85,6 +86,11 @@ Please feel free to [pull requests](https://github.com/wk910930/self-paper-readi
   * [Jun-Yan Zhu](http://people.eecs.berkeley.edu/~junyanz/), Taesung Park, Phillip Isola, [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/)
 * Adversarial Feature Learning [[Paper]](https://arxiv.org/abs/1605.09782) [[Code]](https://github.com/jeffdonahue/bigan)
   * [Jeff Donahue](http://jeffdonahue.com), Philipp Krähenbühl, Trevor Darrell
+
+### Reinforcement Learning
+
+* Playing Atari with Deep Reinforcement Learning [[Paper]](https://arxiv.org/abs/1312.5602)
+  * Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller
 
 ### Other Source
 
