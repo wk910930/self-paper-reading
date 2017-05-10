@@ -31,6 +31,8 @@ Please feel free to [pull requests](https://github.com/wk910930/self-paper-readi
   * Yunho Jeon, Junmo Kim, *CVPR*, 2017
 * Aggregated Residual Transformations for Deep Neural Networks [[Paper]](https://arxiv.org/abs/1611.05431) [[Code]](https://github.com/facebookresearch/ResNeXt)
   * [Saining Xie](http://vcl.ucsd.edu/~sxie/), [Ross Girshick](http://www.rossgirshick.info/), [Piotr Dollár](https://pdollar.github.io/index.html), Zhuowen Tu, [Kaiming He](http://kaiminghe.com/)
+* Convolutional Neural Fabrics [[Paper]](https://arxiv.org/abs/1606.02492)
+  * Shreyas Saxena, Jakob Verbeek
 
 ### Object Detection
 
