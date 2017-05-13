@@ -16,6 +16,7 @@ Please feel free to [pull requests](https://github.com/wk910930/self-paper-readi
   - [Understanding CNN](#understanding-cnn)
   - [Image Generation](#image-generation)
   - [Reinforcement Learning](#reinforcement-learning)
+  - [Visual Question Answering (VQA)](#visual-question-answering)
   - [Other Source](#other-source)
 - [Books](#books)
 - [Tutorials](#tutorials)
@@ -96,6 +97,11 @@ Please feel free to [pull requests](https://github.com/wk910930/self-paper-readi
 
 * Playing Atari with Deep Reinforcement Learning [[Paper]](https://arxiv.org/abs/1312.5602)
   * Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller
+
+### Visual Question Answering
+
+* Inferring and Executing Programs for Visual Reasoning [[Paper]](https://arxiv.org/abs/1705.03633) [[Code]](https://github.com/facebookresearch/clevr-iep)
+  * Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Judy Hoffman, Li Fei-Fei, C. Lawrence Zitnick, Ross Girshick
 
 ### Other Source
 
