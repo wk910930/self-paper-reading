@@ -11,6 +11,7 @@ Please feel free to [pull requests](https://github.com/wk910930/self-paper-readi
 - [Papers](#papers)
   - [ImageNet Classification](#imagenet-classification)
   - [Object Detection](#object-detection)
+  - [Object Tracking](#object-tracking)
   - [Semantic Segmentation](#semantic-segmentation)
   - [Object Recognition](#object-recognition)
   - [Understanding CNN](#understanding-cnn)
@@ -52,6 +53,11 @@ Please feel free to [pull requests](https://github.com/wk910930/self-paper-readi
   * [Deepak Pathak](https://people.eecs.berkeley.edu/~pathak/), [Ross Girshick](http://www.rossgirshick.info/), [Piotr Dollár](https://pdollar.github.io/index.html), Trevor Darrell, Bharath Hariharan
 * Improving Object Detection With One Line of Code [[Paper]](https://arxiv.org/abs/1704.04503) [[Code]](https://github.com/bharatsingh430/soft-nms)
   * Navaneeth Bodla, Bharat Singh, Rama Chellappa, Larry S. Davis
+
+### Object Tracking
+
+* Deep Feature Flow for Video Recognition [[Paper]](https://arxiv.org/abs/1611.07715) [[Code]](https://github.com/msracver/Deep-Feature-Flow)
+  * Xizhou Zhu, Yuwen Xiong, [Jifeng Dai](http://www.jifengdai.org/), Lu Yuan, Yichen Wei
 
 ### Semantic Segmentation
 
