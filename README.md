@@ -90,7 +90,7 @@ Please feel free to [pull requests](https://github.com/wk910930/self-paper-readi
 * Auto-Encoding Variational Bayes [[Paper]](https://arxiv.org/abs/1312.6114)
   * [Diederik P Kingma](http://dpkingma.com), Max Welling
 * Intriguing properties of neural networks [[Paper]](https://arxiv.org/abs/1312.6199)
-  * Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus
+  * Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, [Ian Goodfellow](http://www.iangoodfellow.com/), Rob Fergus
 
 ### Image Generation
 
@@ -121,7 +121,7 @@ Please feel free to [pull requests](https://github.com/wk910930/self-paper-readi
 ## Books
 
 * Free Online Books
-  * [Deep Learning](http://www.deeplearningbook.org) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+  * [Deep Learning](http://www.deeplearningbook.org) by [Ian Goodfellow](http://www.iangoodfellow.com/), Yoshua Bengio, and Aaron Courville
   * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
   * [Deep Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures) by Hilary Term 2017 at the University of Oxford
 
