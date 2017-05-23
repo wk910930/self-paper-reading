@@ -91,6 +91,8 @@ Please feel free to [pull requests](https://github.com/wk910930/self-paper-readi
   * [Diederik P Kingma](http://dpkingma.com), Max Welling
 * Intriguing properties of neural networks [[Paper]](https://arxiv.org/abs/1312.6199)
   * Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, [Ian Goodfellow](http://www.iangoodfellow.com/), Rob Fergus
+* Convolutional Sequence to Sequence Learning [[Paper]](https://arxiv.org/abs/1705.03122)
+  * Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, Yann N. Dauphin 
 
 ### Image Generation
 
