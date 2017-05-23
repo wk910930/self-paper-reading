@@ -132,6 +132,7 @@ Please feel free to [pull requests](https://github.com/wk910930/self-paper-readi
 * [UFDL](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial), Unsupervised Feature Learning and Deep Learning
 * [Distill](http://distill.pub), a modern medium for presenting research
 * [GAN](https://arxiv.org/abs/1701.00160), Generative Adversarial Networks, *NIPS* 2016 Tutorial
+* [Edward](http://edwardlib.org/tutorials/), Edward provides a testbed for rapid experimentation and research with probabilistic models
 
 ## Blogs
 
