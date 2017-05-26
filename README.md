@@ -104,7 +104,7 @@ Please feel free to [pull requests](https://github.com/wk910930/self-paper-readi
 ### Reinforcement Learning
 
 * Playing Atari with Deep Reinforcement Learning [[Paper]](https://arxiv.org/abs/1312.5602)
-  * Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller
+  * [Volodymyr Mnih](https://www.cs.toronto.edu/~vmnih/), Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller
 
 ### Visual Question Answering
 
